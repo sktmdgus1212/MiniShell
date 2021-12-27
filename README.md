@@ -12,5 +12,6 @@
     - a.txt 내용을 stdout에 출력
 
 2. pipe
+
   ls | more
     - file list를 출력, 이후 스페이스바로 한줄씩 출력
